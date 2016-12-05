@@ -1,2 +1,2 @@
 # LGELS676
-Initial 
+Initial Files for LG tribute HD Xda project
